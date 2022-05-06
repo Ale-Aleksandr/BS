@@ -17,6 +17,11 @@ div#messageArea{
   left: 0px;
   color: rgb(83, 175, 19);
 }
+#numberOfShots{
+    position: absolute;
+    top: -23px;
+    left: 435px;
+}
 table{
   position: absolute;
   left: 46px;
